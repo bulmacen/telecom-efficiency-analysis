@@ -32,6 +32,6 @@ Este proyecto final de formación como **Data Analyst** se centra en ayudar al s
 ---
 ## 📂 Estructura del Repositorio
 * `notebook.ipynb`: Jupyter Notebook con el código completo, limpieza de datos y análisis.
-* `telecom_dataset_us.csv`: Dataset con logs de llamadas (transaccional).
-* `Presentacion_Resultados.pdf`: Presentación ejecutiva con los hallazgos.
+* `datasets`: Carpeta con los datasets utilizados (*telecom_clients.csv*, *telecom_dataset_us.csv*).
+* `Proyecto-Final-Telecomunicaciones.pdf`: Presentación ejecutiva con los hallazgos.
 ---
